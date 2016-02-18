@@ -11,7 +11,7 @@ Week 5: Neural Nwtworks Learning,
 Week 6: Resularized Linear Regression and Bias v.s. Variance,  
 Week 7: Support Vector Machines,  
 Week 8: K-means Clustering and Principle Component Analysis,  
-Week 9: ,  
+Week 9: Anomally Detection and Recommender Systems.  
 
 
 Information will be added/updated as I complete the upcoming assignments.
