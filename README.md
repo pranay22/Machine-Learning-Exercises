@@ -2,7 +2,7 @@
 Stanford University - Coursera 
 
 
-Contains all exercises done in Octave / MatLab.
+*Contains all exercises done in Octave / MatLab.*
 
 Week 2: Linear Regression,  
 Week 3: Logistic Regression,  
@@ -14,5 +14,5 @@ Week 8: K-means Clustering and Principle Component Analysis,
 Week 9: Anomally Detection and Recommender Systems.  
 
 
-Course Completed.  
+*Course Completed.*  
 Certification Link: https://www.coursera.org/account/accomplishments/certificate/6RGXLAF4LGBQ   
